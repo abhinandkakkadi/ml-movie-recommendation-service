@@ -4,7 +4,7 @@
 
 Follow these steps to set up the project:
 
-1. **Create a virtual environment**:
+1. **Virtual Environment Setup**:
    ```bash
    python -m venv .venv
 
